@@ -111,6 +111,10 @@
 #include <stan/math/prim/prob/gamma_lcdf.hpp>
 #include <stan/math/prim/prob/gamma_lpdf.hpp>
 #include <stan/math/prim/prob/gamma_rng.hpp>
+#include <stan/math/prim/prob/generalized_gamma_lccdf.hpp>
+#include <stan/math/prim/prob/generalized_gamma_lcdf.hpp>
+#include <stan/math/prim/prob/generalized_gamma_lpdf.hpp>
+#include <stan/math/prim/prob/generalized_gamma_rng.hpp>
 #include <stan/math/prim/prob/gaussian_dlm_obs_lpdf.hpp>
 #include <stan/math/prim/prob/gaussian_dlm_obs_rng.hpp>
 #include <stan/math/prim/prob/gumbel_ccdf_log.hpp>
@@ -156,6 +160,8 @@
 #include <stan/math/prim/prob/logistic_lpdf.hpp>
 #include <stan/math/prim/prob/logistic_rng.hpp>
 #include <stan/math/prim/prob/loglogistic_cdf.hpp>
+#include <stan/math/prim/prob/loglogistic_lccdf.hpp>
+#include <stan/math/prim/prob/loglogistic_lcdf.hpp>
 #include <stan/math/prim/prob/loglogistic_lpdf.hpp>
 #include <stan/math/prim/prob/loglogistic_rng.hpp>
 #include <stan/math/prim/prob/lognormal_ccdf_log.hpp>
